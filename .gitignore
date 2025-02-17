@@ -2,8 +2,5 @@
 node_modules/
 dist/
 .cache/
-/fonts/
-/icons/
-/images/
 /psd/
 /components/
